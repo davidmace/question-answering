@@ -33,6 +33,9 @@ def group_pairs_by_first(pairs) :
 		d[pair[0]].append(pair[1])
 	return d
 
+def flatten_one_layer(l) :
+    return [item for sublist in l for item in sublist]
+
 
 ########################################################################
 ### Load unigram counts
@@ -126,17 +129,13 @@ def load_ent2name() :
 ### Load rules into memory
 ###########################################################################
 
+# www.freebase.com/m/03_7vl	www.freebase.com/people/person/profession	www.freebase.com/m/09jwl 
 def process_rule_line(line) :
 	parts = line.split('\t')
 	uid1 = parts[0]
 	uid1 = uid1[uid1.rfind('/'):]
 	reltype = parts[1]
 	reltype = reltype.replace('www.freebase.com','')
-	#l = []
-	#for i in range(2,len(parts)) : # can be multiple direct objects in relationship
-	#	uid2 = parts[i]
-	#	uid2 = uid2[uid2.rfind('/'):]
-	#	l.append((uid1,(reltype,uid2)))
 	return (uid1,reltype)
 
 def process_rules(sc) :
@@ -154,11 +153,64 @@ def load_rules() :
 	return rules
 
 
+###########################################################################
+### Find possible mispellings by method from http://emnlp2014.org/papers/pdf/EMNLP2014171.pdf
+###########################################################################
 
+def make_mispelling_resources(entname_set) :
 
+	# map letters to prime numbers
+	primes_letters = [2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97,101]
+	primes_numbers = [103,109,113,127,131,137,139,149,151,157]
+	primes_all = primes_letters + primes_numbers + [163,167,173]
+	primes_map = {' ':163,'-':167,'\'':173}
+	for i in range(26) :
+		primes_map[chr(ord('a')+i)] = primes_letters[i]
+	for i in range(10) :
+		primes_map[chr(ord('0')+i)] = primes_numbers[i]
 
+	# list of factors that entity letter score can be off by for one or two errors
+	possible_spelling_ratios = set( flatten_one_layer([[1.0*x*y,1.0*x/y,1.0*y/x,1.0/x/y] for x in primes_all for y in primes_all])
+				+ flatten_one_layer([[1.0*x,1.0/x] for x in primes_all]) )
 
+	# map of spelling score to entity
+	ent_spell_scores = {}
+	for ent in entname_set :
+		num_list = [primes_map[c] for c in ' '.join(ent)]
+		if len(num_list)==0 or len(num_list)>40 :
+			continue
+		ent_spell_scores[float(reduce(op.mul,num_list))] = ent
 
+	return (primes_map, ent_spell_scores, possible_spelling_ratios)
 
+def edit_distance(s1, s2):
+	if len(s1) > len(s2):
+		s1, s2 = s2, s1
+	distances = range(len(s1) + 1)
+	for i2, c2 in enumerate(s2):
+		distances_ = [i2+1]
+		for i1, c1 in enumerate(s1):
+			if c1 == c2:
+				distances_.append(distances[i1])
+			else:
+				distances_.append(1 + min((distances[i1], distances[i1 + 1], distances_[-1])))
+		distances = distances_
+	return distances[-1]
 
+# return list of entities off by 1 or 2 letters from ent
+def find_mispellings(ent, primes_map, ent_spell_scores, possible_spelling_ratios) :
+
+	# look through 300 values of possible entity spelling scores
+	find_val = reduce(op.mul,[primes_map[c] for c in ' '.join(ent)])
+	possibilities = []
+	for ratio in possible_spelling_ratios :
+		if find_val*ratio in ent_spell_scores :
+			possibilities.append(ent_spell_scores[long(find_val*ratio)])
+
+	# use expensive edit distance method on reduced list to account for letter order
+	found = []
+	for poss in possibilities :
+		if edit_distance(' '.join(poss),' '.join(ent))<=2 :
+			found.append(poss)
+	return found
 
