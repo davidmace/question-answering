@@ -1,0 +1,770 @@
+which genre of album is harderfaster /music/album/genre /01qzt1
+('harderfaster', u'/music/album/genre', 1.7092764541629868, u'/0xhtw')
+('harderfaster', u'/music/album/artist', 1.0210468805437964, u'/020vns')
+('harderfaster', u'/music/album/release_type', 0.904076977791626, u'/02lx2r')
+('album', u'/film/film/genre', 0.5137477406879619, u'/0fztc6')
+('genre', u'/film/film/genre', 0.49473349205023665, u'/02hmvc')
+
+what format is fearless /music/album/release_type /02lx2r
+('format', u'/film/film/genre', 0.9360471069447673, u'/02hmvc')
+('format', u'/film/film/country', 0.4635720242044986, u'/01pj7')
+
+what city was alex golfis born in /people/person/place_of_birth /0n2z
+('alex golfis', u'/people/person/place_of_birth', 3.0367664590365373, u'/0n2z')
+('alex golfis', u'/people/person/profession', 1.3232573452142427, u'/02hrh1q')
+('alex golfis', u'/people/person/gender', 1.0793867902092786, u'/05zppz')
+('alex golfis', u'/people/deceased_person/cause_of_death', 0.9915492001932116, u'/01l2m3')
+('alex golfis', u'/people/person/nationality', 0.9235286944226697, u'/035qy')
+
+what film is by the writer phil hay /film/writer/film /05szq8z
+('phil hay', u'/people/person/gender', 1.4759889087475597, u'/05zppz')
+('phil hay', u'/people/person/profession', 1.3588406653931486, u'/0dxtg')
+('phil hay', u'/film/writer/film', 1.2857061004352415, u'/05szq8z')
+('phil hay', u'/people/person/nationality', 1.2312978259440488, u'/09c7w0')
+('phil hay', u'/film/film_story_contributor/film_story_credits', 0.9256668340230447, u'/01pk7l')
+
+where did roger marquis die /people/deceased_person/place_of_death /0tzls
+('roger marquis', u'/people/deceased_person/place_of_death', 3.609366987927062, u'/0tzls')
+('roger marquis', u'/people/person/place_of_birth', 1.2285748432147134, u'/0tzls')
+('die', u'/people/person/place_of_birth', 0.39763109825742704, u'/0gp6_0')
+('roger marquis', u'/baseball/baseball_player/position_s', 0.241377265860529, u'/049k4w')
+('die', u'/tv/tv_program/country_of_origin', 0.1949578437523383, u'/03h64')
+
+what was the cause of death of yves klein /people/deceased_person/cause_of_death /0gk4g
+('yves klein', u'/exhibitions/exhibition/subjects', 1.5181320398356264, u'/01fwty')
+('yves klein', u'/people/deceased_person/cause_of_death', 1.32154844441512, u'/0gk4g')
+('yves klein', u'/symbols/name_source/namesakes', 1.0990869042608014, u'/03d6_18')
+('yves klein', u'/common/topic/notable_types', 1.093720693843711, u'/01y2hcj')
+('yves klein', u'/people/person/profession', 1.0539610515347906, u'/0n1h')
+
+which equestrian was born in dublin /location/location/people_born_here /0k8n4c1
+('born', u'/music/release/region', 0.36498039650721537, u'/07ssc')
+('born', u'/film/film/language', 0.26663596520930705, u'/02h40lc')
+('born', u'/film/film/country', 0.2503644122367023, u'/09c7w0')
+('born', u'/music/release/format', 0.23580066783673545, u'/01www')
+('born', u'/symbols/namesake/named_after', 0.18848341431275814, u'/0gr9_')
+
+what is a tv action show /tv/tv_genre/programs /04g1jv6
+('action', u'/common/topic/notable_types', 0.7911608538079972, u'/01xrzks')
+('action', u'/tv/tv_program/genre', 0.7183927628340645, u'/0c4xc')
+('action', u'/tv/tv_genre/programs', 0.6867802648980942, u'/02qbmbw')
+('tv', u'/internet/top_level_domain/domain_type', 0.6860452993642414, u'/03xvw1')
+('action', u'/comic_books/comic_book_genre/comic_book_series_in_this_genre', 0.5931957188187709, u'/021173')
+
+was song is las vegas extended club mix a remix of  /music/recording/song /02qq534
+('remix', u'/music/album/album_content_type', 0.30548434573197675, u'/06vw38')
+('vegas', u'/film/film/genre', 0.29975336899925, u'/02hmvc')
+('mix', u'/music/album/album_content_type', 0.2925282164851652, u'/02jbfk')
+('remix', u'/book/book/genre', 0.2931522261193752, u'/06n90')
+('mix', u'/music/composition/form', 0.29069653587248817, u'/074ft')
+
+what 's akbar tandjung 's ethnicity /people/person/ethnicity /04tm_l
+('akbar tandjung', u'/people/person/ethnicity', 5.356467820173732, u'/04tm_l')
+('akbar tandjung', u'/people/person/profession', 3.4864581997239665, u'/0fj9f')
+('akbar tandjung', u'/common/topic/notable_types', 2.7825050951699977, u'/02xlh55')
+('akbar tandjung', u'/people/person/gender', 2.677539939357478, u'/05zppz')
+('akbar tandjung', u'/people/person/religion', 2.177966750918078, u'/0flw86')
+
+what 's a song by jean grae /music/artist/track /0dwtrwk
+('jean grae', u'/music/artist/track', 2.0483623454681124, u'/0nnjh7l')
+('jean grae', u'/people/person/profession', 1.5861628428252912, u'/09wct1s')
+('jean grae', u'/music/producer/tracks_produced', 1.4297282989228535, u'/0njbwx')
+('jean grae', u'/music/artist/album', 1.3384317472648795, u'/0_6pmqp')
+('jean grae', u'/common/topic/notable_types', 1.29072364038209, u'/0kpv1m')
+
+what position does carlos gomez play /baseball/baseball_player/position_s /02sg4b
+('gomez', u'/music/artist/genre', 0.5853301633035876, u'/016clz')
+('gomez', u'/common/topic/notable_types', 0.5635492870273575, u'/02nrqx2')
+('carlos', u'/music/artist/genre', 0.4694490565613499, u'/06j6l')
+('carlos', u'/people/person/profession', 0.43093305321685954, u'/09l65')
+('gomez', u'/broadcast/artist/content', 0.3544792064805776, u'/03gc55x')
+
+how does engelbert zaschka identify  /people/person/gender /05zppz
+('engelbert zaschka', u'/people/person/profession', 0.3328847289374963, u'/09j9h')
+('engelbert zaschka', u'/people/person/nationality', 0.12692827127303155, u'/0345h')
+('engelbert zaschka', u'/common/topic/notable_types', 0.11534368451355567, u'/02k76m0')
+('does', u'/music/album/release_type', 0.08494309981443753, u'/02lx2r')
+('engelbert zaschka', u'/people/person/gender', 0.07908499767959416, u'/05zppz')
+
+what did carolyn s shoemaker discover /astronomy/astronomer/astronomical_objects_discovered /03ykvkt
+('carolyn s shoemaker', u'/astronomy/astronomer/astronomical_objects_discovered', 3.980049609427483, u'/03y73lg')
+('carolyn s shoemaker', u'/common/topic/notable_types', 2.177324752299469, u'/021ynvf')
+('carolyn s shoemaker', u'/people/person/profession', 1.8750686537079413, u'/0h9c')
+('carolyn s shoemaker', u'/people/person/gender', 1.59014783774698, u'/02zsn')
+('carolyn s shoemaker', u'/people/person/nationality', 1.2429810096519052, u'/09c7w0')
+
+what 's a release on pretty in pink /music/recording/releases /034vg5v
+('pink', u'/base/roses/rose_color/roses_of_this_color', 0.5144577190134079, u'/0g512x0')
+('pretty', u'/music/recording/releases', 0.46102733371105586, u'/03yzrrq')
+('pretty', u'/music/composition/language', 0.43721722935909463, u'/02h40lc')
+('pink', u'/music/release/track_list', 0.4306477586447229, u'/0wmd_0c')
+('pink', u'/music/recording/releases', 0.42729108346566086, u'/01hkdx3')
+
+who produced the film woodstock villa /film/film/executive_produced_by /0h5t1m8
+('woodstock villa', u'/film/film/produced_by', 3.836006713767074, u'/0b4jlm')
+('woodstock villa', u'/film/film/edited_by', 2.779578722456124, u'/0k37cs')
+('woodstock villa', u'/film/film/written_by', 2.6726106875867437, u'/0hhct1b')
+('woodstock villa', u'/film/film/directed_by', 2.5331672322526897, u'/0cgr8kn')
+('woodstock villa', u'/film/film/executive_produced_by', 2.2714149995945023, u'/0hgx347')
+
+what film was shawn holly cookson the costume designer of /film/film_costumer_designer/costume_design_for_film /045j3w
+('shawn holly cookson', u'/film/film_costumer_designer/costume_design_for_film', 2.1119913383503266, u'/04mzkcp')
+('shawn holly cookson', u'/people/person/profession', 1.4572812289965271, u'/026sdt1')
+('shawn holly cookson', u'/people/person/gender', 1.3627775355839051, u'/05zppz')
+('costume designer', u'/base/skosbase/vocabulary_equivalent_topic/equivalent_concept', 1.184916375638126, u'/0bpgskc')
+('costume designer', u'/people/profession/specialization_of', 0.7817370374339847, u'/01c979')
+
+who created the typeface chicago /base/typefaces/typeface/typeface_creator /02f2m7
+('typeface', u'/fictional_universe/fictional_character/character_created_by', 1.8812114194942784, u'/06421c')
+('typeface', u'/common/topic/image', 0.2840038402211194, u'/028zl4t')
+('typeface', u'/fictional_universe/fictional_character/occupation', 0.24502799961003813, u'/099md')
+('typeface', u'/type/type/instance', 0.21635805679852338, u'/0cfc0')
+('typeface', u'/film/film/language', 0.2141209591064533, u'/02h40lc')
+
+what position does pee wee reese play in baseball /baseball/baseball_player/position_s /017drs
+('pee wee reese', u'/baseball/baseball_player/position_s', 4.059229884593864, u'/017drs')
+('pee wee reese', u'/common/topic/notable_types', 1.458208242933661, u'/025698c')
+('pee wee reese', u'/people/person/profession', 1.3938795638148873, u'/02h664g')
+('pee wee reese', u'/people/person/gender', 1.0543987633749448, u'/05zppz')
+('pee wee reese', u'/freebase/valuenotation/is_reviewed', 0.9167040547616881, u'/04mh')
+
+which artist recorded one life to live  /music/recording/artist /012gl8
+('one life to live', u'/music/recording/artist', 2.8179450580643826, u'/012gl8')
+('to live', u'/music/recording/artist', 0.7780429852274, u'/016t00')
+('one life', u'/music/album/artist', 0.5087902070703532, u'/01dhhq')
+('one life to live', u'/music/recording/releases', 0.43844576999909834, u'/049ktbj')
+('one life to live', u'/tv/tv_program/country_of_origin', 0.3119744474658333, u'/09c7w0')
+yes
+
+where is stephen mao from  /people/person/nationality /09c7w0
+('stephen mao', u'/people/person/nationality', 2.3056532560114515, u'/09c7w0')
+('stephen mao', u'/people/person/gender', 1.4697746551514006, u'/05zppz')
+('stephen mao', u'/people/person/place_of_birth', 1.4525315692262615, u'/0wh3')
+('stephen mao', u'/people/person/profession', 1.1104514068224989, u'/01d_h8')
+('mao', u'/location/location/containedby', 0.8761017423288552, u'/03xz29')
+yes
+
+what is a track on carpenter /music/recording/tracks /0kmr1b4
+('what is', u'/music/album/genre', 0.06344280431127054, u'/0xhtw')
+('what is', u'/music/album/artist', 0.037492766092872845, u'/01v04zz')
+('what is', u'/music/album/album_content_type', 0.0319736225385119, u'/0l14g2')
+('what is', u'/music/album/release_type', 0.019064100523373803, u'/02lx2r')
+?ent
+
+which swiss conductor 's cause of death is myocardial infarction /people/cause_of_death/people /03nvkgr
+('myocardial infarction', u'/medicine/symptom/symptom_of', 1.0803250331441394, u'/04nz3')
+('myocardial infarction', u'/medicine/symptom/side_effect_of', 1.021719888050343, u'/01kl4_')
+('myocardial infarction', u'/medicine/disease/symptoms', 0.9721977506193312, u'/02np4v')
+('myocardial infarction', u'/medicine/disease/causes', 0.9499562292468068, u'/072y7p')
+('myocardial infarction', u'/common/topic/notable_types', 0.9485701734576599, u'/01xljsr')
+nopeno
+
+what type of music does david ruffin play /music/artist/genre /064t9
+('david ruffin', u'/music/artist/genre', 1.7760433762570427, u'/064t9')
+('david ruffin', u'/music/group_member/instruments_played', 1.5229698683702477, u'/02hnl')
+('david ruffin', u'/music/album/genre', 1.3339632553483982, u'/0gywn')
+('david ruffin', u'/music/album/release_type', 1.040334406628156, u'/02lx2r')
+('david ruffin', u'/common/topic/notable_types', 0.989966436917533, u'/01xlj26')
+yes
+
+what tracks are listed in the release equator /music/release/track_list /0l4nm7r
+('equator', u'/tv/tv_program/languages', 0.5487843935601958, u'/02h40lc')
+('equator', u'/music/album/release_type', 0.4998765609538442, u'/02lx2r')
+('equator', u'/music/release/format', 0.49316203677185183, u'/01www')
+('equator', u'/music/release/track', 0.48813007066100395, u'/016p067')
+('equator', u'/music/release/track_list', 0.4740121313568247, u'/0ltx401')
+nope5
+
+what is the track los angeles is a recording of /music/recording/tracks /0msnqlm
+('the track', u'/film/film/genre', 0.6301243562988875, u'/02hmvc')
+('recording', u'/common/topic/notable_types', 0.587045886079024, u'/01xxxsy')
+('angeles', u'/common/topic/notable_types', 0.5529020470080487, u'/01m9')
+('recording', u'/business/industry/parent_industry', 0.5368400861454763, u'/03qb8j3')
+('los', u'/people/person/gender', 0.48880285990381633, u'/05zppz')
+?ent
+
+name a history film /film/film_genre/films_in_this_genre /0crygf7
+('film', u'/book/magazine_genre/magazines_in_this_genre', 0.5485413056134535, u'/04g24mx')
+('film', u'/internet/website_category/sites', 0.44016688353176814, u'/027d411')
+('film', u'/media_common/quotation_subject/quotations_about_this_subject', 0.38514602309029716, u'/048c34b')
+('name', u'/media_common/quotation_subject/quotations_about_this_subject', 0.36286790685209813, u'/048g69g')
+('film', u'/education/field_of_study/journals_in_this_discipline', 0.3559682940683049, u'/027msg3')
+?ent
+
+where was padraic mcguinness 's place of death /people/deceased_person/place_of_death /06y57
+('padraic mcguinness', u'/people/person/place_of_birth', 2.0534974198282403, u'/0chghy')
+('padraic mcguinness', u'/people/deceased_person/place_of_death', 1.2868893505730181, u'/06y57')
+('padraic mcguinness', u'/people/person/profession', 0.7560348592848949, u'/0d8qb')
+('padraic mcguinness', u'/people/person/nationality', 0.5898850617272218, u'/0chghy')
+('padraic mcguinness', u'/people/person/gender', 0.5446253771926894, u'/05zppz')
+nope5
+
+what language is viper in /tv/tv_program/languages /02h40lc
+('viper', u'/amusement_parks/ride/park', 1.634931487931872, u'/04166c')
+('viper', u'/tv/tv_program/languages', 1.6218165435441978, u'/02h40lc')
+('viper', u'/common/topic/notable_types', 1.3852928335184673, u'/02hqb47')
+('viper', u'/location/location/containedby', 1.1225143782010665, u'/09c7w0')
+('viper', u'/fictional_universe/fictional_character/gender', 1.0942868966732568, u'/02zsn')
+nope5
+
+what 's the name of an environmental disaster in italy /event/disaster_type/disasters_of_this_type /012bjr
+('environmental disaster', u'/common/topic/image', 0.9474188222793347, u'/044msgp')
+('environmental disaster', u'/common/topic/notable_types', 0.7439527370974103, u'/059kpsl')
+('environmental disaster', u'/event/disaster_type/disasters_of_this_type', 0.7236371260449426, u'/03d7v_v')
+('disaster', u'/common/topic/image', 0.44036808825806995, u'/03s7b2j')
+('disaster', u'/theater/play/genre', 0.40638556002336934, u'/0557q')
+nope5
+
+where was magical mystery tour released /music/release/region /02j71
+('magical mystery tour', u'/music/release/region', 3.923649209702229, u'/09c7w0')
+('magical mystery tour', u'/music/release/format', 1.8384122313684474, u'/01www')
+('magical mystery tour', u'/music/release/label', 1.457692643806383, u'/019n_t')
+('magical mystery tour', u'/music/album/release_type', 1.4447502264862273, u'/02lx2r')
+('magical mystery tour', u'/film/film/country', 1.2177836098503212, u'/09c7w0')
+yes
+
+who influenced michael mcdowell /influence/influence_node/influenced_by /03j0d
+('michael mcdowell', u'/influence/influence_node/influenced_by', 4.781623903389642, u'/03j0d')
+('michael', u'/film/film/directed_by', 0.7440828162568379, u'/02wrw8')
+('michael', u'/music/composition/composer', 0.6771851967651072, u'/01p5t9h')
+('michael', u'/film/film/written_by', 0.6712952874072309, u'/02wrw8')
+('michael', u'/film/film/produced_by', 0.6661126943612068, u'/027nzpv')
+yes
+
+what formatting does the complete on the corner sessions have /music/album/album_content_type /02jbfk
+('the complete on the corner sessions', u'/music/album/album_content_type', 1.3809479639418434, u'/02jbfk')
+('the complete on the corner sessions', u'/music/album/genre', 1.343818000478633, u'/01fh36')
+('the complete on the corner sessions', u'/music/album/release_type', 1.2915587198267917, u'/02lx2r')
+('the complete on the corner sessions', u'/music/release/format', 1.255391543676212, u'/01www')
+('the complete on the corner sessions', u'/music/release/label', 0.8183623504185358, u'/0bzkd0')
+yes
+
+where was michael dotson born /people/person/place_of_birth /0mzy7
+('michael dotson', u'/people/person/place_of_birth', 4.175290423887403, u'/0mzy7')
+('michael', u'/people/person/place_of_birth', 1.0764610264817618, u'/09c7w0')
+('born', u'/astronomy/extraterrestrial_location/on_celestial_object', 0.511410595989259, u'/04wv_')
+('michael', u'/music/release/region', 0.44679582448492283, u'/07ssc')
+('born', u'/music/release/region', 0.391559446335279, u'/07ssc')
+yes
+
+what is the place of birth of sam edwards /people/person/place_of_birth /0ck6r
+('sam edwards', u'/common/topic/notable_types', 1.6104940312824263, u'/0jsg4j')
+('sam edwards', u'/people/person/gender', 1.5050459554321995, u'/05zppz')
+('sam edwards', u'/people/person/profession', 1.368984896526374, u'/05snw')
+('sam edwards', u'/people/person/nationality', 1.254614882311434, u'/07ssc')
+('place of birth', u'/people/person/nationality', 1.154250375675648, u'/09c7w0')
+nopeno
+
+which military was involved in the second battle of fort fisher /base/culturalevent/event/entity_involved /02fp48
+('second battle of fort fisher', u'/base/culturalevent/event/entity_involved', 3.0907234456047923, u'/01n69p')
+('second battle of fort fisher', u'/time/event/included_in_event', 1.8586878727161473, u'/0kbq')
+('second battle of fort fisher', u'/time/event/locations', 1.0590839325204275, u'/0n3zj')
+('fort fisher', u'/base/usnris/nris_listing/significance_level', 0.5441083367420736, u'/05gk2gv')
+('fort fisher', u'/location/location/containedby', 0.3936408197536499, u'/05fkf')
+yes
+
+what kind of temperament is the pembroke welsh corgi known for  /biology/animal_breed/temperament /04kxc5b
+('pembroke welsh corgi', u'/type/object/type', 2.809791390948219, u'/0cgyc3f')
+('pembroke welsh corgi', u'/common/topic/notable_types', 2.7456895233157126, u'/04kmvqn')
+('pembroke welsh corgi', u'/base/petbreeds/dog_breed/temperament', 2.6122396191838333, u'/04kqp3v')
+('pembroke welsh corgi', u'/biology/animal_breed/temperament', 2.6030351103072156, u'/04kqp3v')
+('pembroke welsh corgi', u'/biology/animal_breed/breed_of', 2.2293320499165756, u'/0bt9lr')
+nope5
+
+what kind of album is music for cello  orchestra /music/album/album_content_type /02jbfk
+('music for cello orchestra', u'/music/album/album_content_type', 2.1935980790918994, u'/02jbfk')
+('music for cello orchestra', u'/music/album/release_type', 1.275621434010098, u'/02lx2r')
+('cello', u'/music/album/genre', 0.8007017212388488, u'/03_d0')
+('music for cello orchestra', u'/music/album/artist', 0.7859817809424718, u'/014fls')
+('cello', u'/common/topic/notable_types', 0.7669453395322979, u'/02ynpkq')
+yes
+
+what is the content type of voodoo lounge /music/album/album_content_type /06vw6v
+('voodoo lounge', u'/type/object/type', 2.646158000978684, u'/06vwzp1')
+('voodoo lounge', u'/music/album/album_content_type', 2.1093615286901013, u'/06vw6v')
+('voodoo lounge', u'/common/topic/notable_types', 2.0244070331149286, u'/0kpv17')
+('voodoo lounge', u'/music/album/genre', 1.817549953830094, u'/0xhtw')
+('voodoo lounge', u'/music/album/release_type', 1.6663738906835164, u'/02lx2r')
+nope5
+
+which label is somevelvetsidewalk signed to /music/artist/label /01rww3
+?ent
+
+which group recorded tokyo /music/recording/artist /016vp8
+('group', u'/film/film/country', 0.14421426148009794, u'/09c7w0')
+('group', u'/film/film/language', 0.08010154984905739, u'/02h40lc')
+('group', u'/media_common/netflix_title/netflix_genres', 0.05319743259628348, u'/07s9rl0')
+('group', u'/film/film/genre', 0.025398182839901886, u'/07s9rl0')
+?ent
+
+which home is an example of italianate architecture /architecture/architectural_style/examples /02w2wm8
+('italianate architecture', u'/architecture/architectural_style/examples', 1.822515354737241, u'/05s_4yk')
+('italianate architecture', u'/type/object/type', 1.417037080296496, u'/0cgp9nm')
+('italianate architecture', u'/common/topic/notable_types', 1.0162359698843673, u'/025dgfy')
+('italianate architecture', u'/common/topic/image', 0.739118002890986, u'/0292mrz')
+('architecture', u'/type/object/type', 0.4891637841121183, u'/04mny2g')
+yes
+
+who is the creator of loud /music/composition/composer /01s1r9d
+('the creator', u'/book/written_work/author', 1.1219434818306333, u'/01d5z6')
+('loud', u'/music/composition/composer', 1.0015769329994555, u'/01s1r9d')
+('creator', u'/film/film/directed_by', 0.889252709001078, u'/06z4f2')
+('the creator', u'/book/book/genre', 0.880272593645889, u'/05qgc')
+('loud', u'/music/composition/lyricist', 0.8423147293228728, u'/01s1r9d')
+nope5
+
+who published neo contra /cvg/computer_videogame/publisher /01qckn
+('neo contra', u'/cvg/computer_videogame/publisher', 3.591304164098696, u'/01qckn')
+('neo contra', u'/cvg/computer_videogame/developer', 1.6871566153642599, u'/01qckn')
+('contra', u'/cvg/game_version/publisher', 1.3621831983971286, u'/01qckn')
+('contra', u'/cvg/computer_videogame/publisher', 1.2703033516698872, u'/01qckn')
+('neo', u'/fictional_universe/fictional_character/character_created_by', 0.7725028412801552, u'/03nzd5t')
+yes
+
+what is the name of a western genre film /film/film_genre/films_in_this_genre /0crsq8c
+('a western', u'/film/film/genre', 1.0284763476312921, u'/02hmvc')
+('western', u'/media_common/media_genre/parent_genre', 0.7217290397014563, u'/02jjt')
+('western', u'/film/film/genre', 0.6436830044372529, u'/07s9rl0')
+('genre', u'/film/film/genre', 0.6246351711881849, u'/02hmvc')
+('western', u'/media_common/media_genre/child_genres', 0.6062523933492231, u'/0253g1')
+nopeno
+
+name a netflix film that uses hindi language /media_common/netflix_genre/titles /0g4p4nv
+('hindi language', u'/media_common/netflix_genre/titles', 0.8330952640319786, u'/0bmj6nq')
+('hindi language', u'/music/compositional_form/compositions', 0.787387548088653, u'/074ft')
+('hindi language', u'/language/language_family/member_of_language_families', 0.3465557255757, u'/03v09')
+('hindi language', u'/music/composer/compositions', 0.31455492772750915, u'/01mz9lt')
+('hindi language', u'/language/language_writing_system/languages', 0.2777946689138548, u'/0429lm')
+yes
+
+who was born in aguascalientes /location/location/people_born_here /043xgq
+('aguascalientes', u'/location/location/people_born_here', 1.8900500901062185, u'/0gmls5h')
+('aguascalientes', u'/location/location/events', 0.5204392761515012, u'/04g0d7w')
+('born', u'/symbols/namesake/named_after', 0.49091358400714935, u'/0gr9_')
+('born', u'/film/film/produced_by', 0.4768531612689516, u'/063b4k')
+('aguascalientes', u'/location/location/contains', 0.46394832342612957, u'/04m_qxm')
+yes
+
+what is an album by herb alpert /music/artist/album /01pg8tl
+('herb alpert', u'/music/artist/album', 2.5887786540414264, u'/0frtgmv')
+('herb alpert', u'/common/topic/notable_types', 2.2900537856698775, u'/0kpv1m')
+('herb alpert', u'/people/person/gender', 1.9123152333390976, u'/05zppz')
+('herb alpert', u'/people/person/profession', 1.7880009558258732, u'/0b7b55p')
+('herb alpert', u'/music/artist/track', 1.6551013598781643, u'/0g06h2s')
+yes
+
+what is angie estes 's profession  /people/person/profession /05z96
+('angie estes', u'/people/person/profession', 4.042553361597184, u'/0cbd2')
+('angie estes', u'/common/topic/notable_types', 3.220840718087756, u'/01xryvt')
+('angie estes', u'/people/person/ethnicity', 3.0511369149827345, u'/07hwkr')
+('angie estes', u'/people/person/gender', 2.8906480059140076, u'/02zsn')
+('angie estes', u'/people/person/nationality', 2.381575936607113, u'/09c7w0')
+yes
+
+what song was on the recording indiana /music/recording/song /0_6n469
+('recording', u'/common/topic/notable_types', 0.3904606995321014, u'/01xxxsy')
+('song', u'/base/skosbase/vocabulary_equivalent_topic/equivalent_concept', 0.37042037287363916, u'/0bp0xgq')
+('recording', u'/business/industry/parent_industry', 0.3481326619246422, u'/03qb8j3')
+('song', u'/music/recording/song', 0.34027513458204295, u'/014ckw9')
+('song', u'/common/topic/notable_types', 0.31823042339545077, u'/05nd7vz')
+?ent
+
+what is jeff hall known for /common/topic/notable_types /01xljr7
+('jeff hall', u'/common/topic/notable_types', 2.4161029745670533, u'/0kqggl')
+('jeff hall', u'/people/person/profession', 1.6511386235802727, u'/025smyp')
+('jeff hall', u'/people/person/gender', 1.651142539344991, u'/05zppz')
+('jeff hall', u'/people/person/nationality', 1.4143983846314352, u'/02jx1')
+('jeff hall', u'/soccer/football_player/position_s', 0.7439402858170704, u'/02_j1w')
+yes
+
+what position does jos francisco torres play /soccer/football_player/position_s /02nzb8
+('jos francisco torres', u'/soccer/football_player/position_s', 4.257432045942851, u'/02nzb8')
+('jos francisco torres', u'/people/person/gender', 1.2624130040546788, u'/05zppz')
+('jos francisco torres', u'/people/person/nationality', 1.0335979259813806, u'/0b90_r')
+('francisco', u'/astronomy/orbital_relationship/orbits', 0.5188139307908265, u'/0c3ss')
+('torres', u'/music/artist/genre', 0.4518949616226855, u'/0fdp85')
+yes
+
+what 's an episode directed by philip leacock /tv/tv_director/episodes_directed /05ddc1j
+('philip leacock', u'/tv/tv_director/episodes_directed', 1.713010744002692, u'/05ddc1j')
+('philip leacock', u'/people/person/profession', 1.2084554646121437, u'/01d_h8')
+('philip leacock', u'/people/person/gender', 0.9273059252829277, u'/05zppz')
+('philip leacock', u'/people/person/nationality', 0.685090138481033, u'/02jx1')
+('philip leacock', u'/people/deceased_person/cause_of_death', 0.5758728977378359, u'/04d83y')
+yes
+
+where did chic murray pass away /people/deceased_person/place_of_death /02m77
+('chic murray', u'/people/deceased_person/place_of_death', 2.3864738301881716, u'/02m77')
+('chic murray', u'/people/person/place_of_birth', 0.9798637880887882, u'/01z9j2')
+('chic', u'/music/artist/origin', 0.5330468302988352, u'/02_286')
+('chic murray', u'/people/person/nationality', 0.2139000978779388, u'/06q1r')
+('murray', u'/location/location/containedby', 0.19279999987216728, u'/09c7w0')
+yes
+
+what is the release type of the album the soul sessions /music/album/release_type /02lx2r
+('the soul sessions', u'/music/album/album_content_type', 2.024640774292277, u'/06vw6v')
+('the soul sessions', u'/music/album/release_type', 1.6481505186303398, u'/02lx2r')
+('the soul sessions', u'/music/album/genre', 1.614010370798783, u'/0155w')
+('the soul sessions', u'/music/release/format', 1.0257801106386155, u'/01www')
+('the soul sessions', u'/music/album/artist', 1.0011400603797058, u'/01wk7ql')
+nope5
+
+whats the name of the organization that was founded by  frei otto /organization/organization_founder/organizations_founded /06lf91
+('frei otto', u'/organization/organization_founder/organizations_founded', 1.0830244926861214, u'/06lf91')
+('frei otto', u'/people/person/place_of_birth', 0.6289980810424181, u'/0345h')
+('otto', u'/biology/organism/place_of_birth', 0.3021629470078257, u'/0235n9')
+('frei otto', u'/people/person/gender', 0.2511911911979635, u'/05zppz')
+('frei otto', u'/people/person/profession', 0.22546419853823849, u'/0mn6')
+yes
+
+what is the genre for the film cow belles /film/film/genre /0hqxf
+('cow belles', u'/film/film/genre', 2.23656787376674, u'/0hqxf')
+('cow belles', u'/media_common/netflix_title/netflix_genres', 1.7736085005570692, u'/015w9s')
+('cow belles', u'/film/film/language', 1.4993509713513096, u'/02h40lc')
+('cow belles', u'/film/film/country', 1.0469544885386466, u'/09c7w0')
+('cow', u'/film/film/genre', 0.873207941367016, u'/02hmvc')
+yes
+
+what is the album content type of around the world disc 1 /music/album/album_content_type /06vw6v
+('around the world', u'/music/album/album_content_type', 1.1824758635809502, u'/02jbfk')
+('around the world', u'/theater/play/genre', 0.983198438164687, u'/0557q')
+('around the world', u'/music/album/genre', 0.9150837922685018, u'/02lnbg')
+('around the world', u'/film/film/genre', 0.9006733666692126, u'/04rlf')
+('around the world', u'/music/composition/form', 0.8746490624875514, u'/074ft')
+yes
+
+who is the author of a knot in the grain and other stories /book/written_work/author /055t93
+('author', u'/book/written_work/author', 0.3584134105907381, u'/05y6_g2')
+('stories', u'/music/composition/composer', 0.3579455086403675, u'/01ww_vs')
+('knot', u'/common/topic/notable_types', 0.34551505987028186, u'/01xr_d2')
+('author', u'/common/topic/subject_of', 0.3362634320847155, u'/0t_95bz')
+('author', u'/fictional_universe/character_occupation/characters_with_this_occupation', 0.3224618492120977, u'/0j350kv')
+?ent
+
+who directed the show dancin ' homer /tv/tv_series_episode/director /060pl5
+('the show', u'/film/film/directed_by', 1.031997165276967, u'/06lk1c')
+('the show', u'/music/composition/composer', 0.48820731705259324, u'/02pt27')
+('the show', u'/film/film/produced_by', 0.4797028091349931, u'/07rdr')
+('the show', u'/film/film/edited_by', 0.46268166281793216, u'/09s950')
+('the show', u'/music/recording/producer', 0.4283417962280968, u'/01f2q5')
+?ent
+
+where was held for british columbia /location/location/contains /0719fm
+('british columbia', u'/book/book_edition/place_of_publication', 1.6172686444031914, u'/0h7h6')
+('british columbia', u'/symbols/namesake/named_after', 0.5256899046010226, u'/01pwz')
+('british columbia', u'/location/location/people_born_here', 0.4911469299255604, u'/0ckn56')
+('british columbia', u'/location/location/containedby', 0.40097459812951886, u'/0d060g')
+('british columbia', u'/film/film_location/featured_in_films', 0.2956693385356671, u'/04w6zk')
+nopeno
+
+in what country is primero river located /location/location/containedby /0jgd
+('primero river', u'/location/location/containedby', 2.244575280789032, u'/0jgd')
+('primero river', u'/geography/river/basin_countries', 1.773263334146273, u'/0jgd')
+('river', u'/base/skosbase/vocabulary_equivalent_topic/broader_concept', 0.6815959833620202, u'/0bpl6ss')
+('river', u'/type/object/type', 0.6072154693046568, u'/0bcrgz0')
+('river', u'/location/location/containedby', 0.5986411684136962, u'/09c7w0')
+yes
+
+where was johannes messenius born  /people/person/place_of_birth /02p3h4s
+('johannes messenius', u'/people/person/place_of_birth', 6.106789688652558, u'/02p3h4s')
+('johannes messenius', u'/people/deceased_person/place_of_death', 2.2301416001475025, u'/01dnlr')
+('born', u'/astronomy/extraterrestrial_location/on_celestial_object', 0.511410595989259, u'/04wv_')
+('born', u'/music/release/region', 0.391559446335279, u'/07ssc')
+('born', u'/symbols/namesake/named_after', 0.22010157735050678, u'/0gr9_')
+yes
+
+who wrote the lyrics for the house that never was /music/composition/lyricist /034p5f
+('the house that never was', u'/music/composition/lyricist', 2.590902366515949, u'/034p5f')
+('the house that never was', u'/music/composition/composer', 2.0118224658208215, u'/034p5f')
+('the house', u'/book/written_work/author', 0.6067118651456073, u'/0gs66')
+('the house', u'/music/composition/lyricist', 0.5961262096807378, u'/030w0v')
+('the house', u'/tv/tv_series_episode/writer', 0.5611093345037529, u'/0pqzh')
+yes
+
+which event took place in italia roman empire /location/location/events /08w4qg
+('roman empire', u'/location/location/events', 0.9950862438667564, u'/08m2bh')
+('roman empire', u'/location/location/people_born_here', 0.507988765423763, u'/01d1d_')
+('roman empire', u'/location/location/contains', 0.4440180297421998, u'/05h20fb')
+('roman empire', u'/fictional_universe/fictional_setting/languages', 0.4155776368394018, u'/04h9h')
+('roman empire', u'/user/robert/roman_empire/roman_region/emperors', 0.3622468505137644, u'/0ngg')
+?ent
+
+who did the music for the film taffin /film/film/music /0150t6
+('taffin', u'/film/film/music', 1.7087764712109599, u'/0150t6')
+('film', u'/film/film/written_by', 0.4641856517701618, u'/06whf')
+('film', u'/law/invention/inventor', 0.45079591338977953, u'/0gc57')
+('taffin', u'/film/film/genre', 0.42910470692557556, u'/02kdv5l')
+('film', u'/book/written_work/author', 0.4204095995977704, u'/08zjjh')
+yes
+
+what male actor was born in  warsaw /location/location/people_born_here /0kf1lv_
+('male', u'/location/location/people_born_here', 0.7034301540850418, u'/03kcs9')
+('male', u'/fictional_universe/fictional_setting/fictional_characters_born_here', 0.5080050621532548, u'/017y_')
+('male', u'/music/release/region', 0.4547672048959107, u'/07ssc')
+('male', u'/music/release/format', 0.4457376039158682, u'/01www')
+('male', u'/type/object/type', 0.3855540782739597, u'/05z35s_')
+?ent
+
+what 's an album that the philharmonia orchestra has released /music/artist/album /01l5s5p
+('philharmonia orchestra', u'/music/artist/album', 1.2521474148380576, u'/01737y')
+('philharmonia orchestra', u'/music/release/album', 1.2115649159183883, u'/0w3f7pk')
+('philharmonia orchestra', u'/music/album_release_type/albums', 0.9024117456693364, u'/02lx2r')
+('philharmonia orchestra', u'/common/topic/notable_types', 0.7862791694914283, u'/04_k1_0')
+('philharmonia orchestra', u'/music/album_content_type/albums', 0.7179205453380412, u'/02jbfk')
+yes
+
+what kind of school is holy cross high school /education/educational_institution/school_type /02gq9y
+('holy cross high school', u'/education/educational_institution/school_type', 4.059696916844874, u'/0bpgx')
+('holy cross high school', u'/common/topic/notable_types', 2.9830698270165157, u'/01y2hn6')
+('holy cross high school', u'/education/educational_institution/colors', 2.503764840927609, u'/038hg')
+('holy cross high school', u'/education/school/school_district', 2.42220763553579, u'/02qdjmr')
+('holy cross high school', u'/freebase/valuenotation/is_reviewed', 1.8303836036794379, u'/043008d')
+yes
+
+where is mvm arts and science college at /location/location/containedby /06dscc
+('mvm arts and science college', u'/location/location/containedby', 4.212261667999035, u'/06dscc')
+('college', u'/location/location/containedby', 0.30348401569821293, u'/09c7w0')
+('college', u'/type/object/type', 0.2631584190180275, u'/0cgyc3f')
+('science', u'/common/topic/notable_types', 0.25785403823328473, u'/0kpv17')
+('science', u'/user/techgnostic/default_domain/magazine_topic/periodical', 0.2545125058359734, u'/079jx')
+yes
+
+what kind of release was collection /music/album/release_type /02lx2r
+('kind', u'/music/album/release_type', 0.7578625845979293, u'/02lx2r')
+('kind', u'/music/release/format', 0.589522864121005, u'/01www')
+('release', u'/music/album/album_content_type', 0.562265663291974, u'/02jbfk')
+('release', u'/music/album/release_type', 0.5310294412329323, u'/02lx2r')
+('release', u'/film/film/genre', 0.5179079822468168, u'/05r6t')
+?ent
+
+which timezone is greenway township located in /location/location/time_zones /02fqwt
+('greenway township', u'/location/location/containedby', 1.8076144804324903, u'/09c7w0')
+('greenway township', u'/location/location/time_zones', 1.4537008198639803, u'/02fqwt')
+('greenway', u'/location/location/containedby', 0.9173729541243842, u'/09c7w0')
+('greenway', u'/location/location/time_zones', 0.7377600865493091, u'/02fqwt')
+('greenway', u'/location/neighborhood/neighborhood_of', 0.6194738327566348, u'/0rh6k')
+nope5
+
+what would be a indie rock album /music/genre/albums /04m_nz1
+('indie rock', u'/music/genre/albums', 1.3442868061960953, u'/026fgj4')
+('indie rock', u'/common/topic/notable_types', 0.8912798240292971, u'/0kpv1t')
+('indie rock', u'/music/genre/subgenre', 0.8712616311312363, u'/07b38v')
+('indie', u'/music/genre/albums', 0.6601084886794062, u'/01pvhmn')
+('indie rock', u'/broadcast/genre/content', 0.6147799746695379, u'/03gbsmq')
+yes
+
+which baseball team belongs to intercounty baseball league /baseball/baseball_league/teams /05_67x
+('intercounty baseball league', u'/baseball/baseball_league/teams', 1.1419514326818758, u'/05_67x')
+('intercounty baseball league', u'/sports/sports_league/sport', 0.926801162756305, u'/018jz')
+('baseball', u'/sports/sport/leagues', 0.32150162501073165, u'/0jbf1')
+('baseball', u'/sports/sport/related_equipment', 0.2143344166738211, u'/02ljcb')
+('baseball', u'/sports/sport/teams', 0.20381615363334657, u'/07l8x')
+yes
+
+how was phrenology released /music/release/format /01www
+('phrenology', u'/music/release/region', 1.6240947748291392, u'/07ssc')
+('phrenology', u'/music/release/format', 1.0385995651934725, u'/01www')
+('phrenology', u'/music/album/release_type', 0.9538434864190619, u'/02lx2r')
+('released', u'/music/release/region', 0.35554036619799145, u'/0chghy')
+('released', u'/music/album/release_type', 0.3132657219474073, u'/02lx2r')
+nope5
+
+what types of album is collection part 1 all mixed up disc 2 /music/album/album_content_type /02jbfk
+('collection part 1 all mixed up', u'/music/album/album_content_type', 4.811256836161857, u'/02jbfk')
+('collection part 1 all mixed up', u'/music/album/release_type', 2.871436787206863, u'/02lx2r')
+('all mixed up', u'/music/album/album_content_type', 1.2575400144558715, u'/02jbfk')
+('all mixed up', u'/music/album/genre', 0.9796791479759036, u'/01_bkd')
+('mixed up', u'/music/album/album_content_type', 0.829917234256734, u'/06vw38')
+yes
+
+who was also born in jakarta /location/location/people_born_here /0vwwvbv
+('jakarta', u'/location/location/people_born_here', 1.2984076973873637, u'/0vb4jrj')
+('jakarta', u'/government/governmental_jurisdiction/government_positions', 0.614199528519212, u'/0c1f1jk')
+('born', u'/symbols/namesake/named_after', 0.3927308672057195, u'/0gr9_')
+('born', u'/film/film/produced_by', 0.3814825290151613, u'/063b4k')
+('jakarta', u'/location/location/events', 0.3575261659545971, u'/02q3_sm')
+yes
+
+where is buckingham palace located /location/location/containedby /04jpl
+('buckingham palace', u'/location/location/containedby', 2.723693024742397, u'/04jpl')
+('buckingham palace', u'/travel/tourist_attraction/near_travel_destination', 1.7131914262269508, u'/04jpl')
+('buckingham palace', u'/common/topic/notable_types', 1.6042612064576391, u'/0kpv11')
+('buckingham', u'/location/location/containedby', 1.134809260665978, u'/07ssc')
+('buckingham palace', u'/architecture/building/building_function', 0.9541491542304861, u'/05zp8')
+yes
+
+who was born in prague /location/location/people_born_here /064qvp4
+('prague', u'/location/location/people_born_here', 1.4667563749051837, u'/0h95ntd')
+('prague', u'/people/place_of_interment/interred_here', 0.97049334343839, u'/01p_7c')
+('prague', u'/symbols/namesake/named_after', 0.7770312744644668, u'/05ywg')
+('prague', u'/film/film_location/featured_in_films', 0.5221486787389409, u'/0bj4tmp')
+('born', u'/symbols/namesake/named_after', 0.49091358400714935, u'/0gr9_')
+yes
+
+what style of jazz did zachary lipton perform  /music/artist/genre /0cx6f
+('zachary lipton', u'/music/artist/genre', 1.2111643092037438, u'/0cx6f')
+('zachary lipton', u'/people/person/gender', 0.9224061645428597, u'/05zppz')
+('lipton', u'/common/topic/notable_types', 0.5062239438725633, u'/05czz29')
+('lipton', u'/common/topic/image', 0.3966205374684129, u'/03tr5tm')
+('lipton', u'/symbols/name_source/namesakes', 0.3346095716153541, u'/0395tg')
+yes
+
+what country released  she gets out the scrapbook /music/release/region /07ssc
+('she gets out the scrapbook', u'/music/release/region', 4.067686975667536, u'/07ssc')
+('she gets out the scrapbook', u'/music/album/release_type', 2.4881585232599215, u'/02lx2r')
+('she gets out the scrapbook', u'/music/album/album_content_type', 1.903228640906846, u'/02jbfk')
+('she gets out the scrapbook', u'/music/release/track_list', 1.619340825687435, u'/0ln505d')
+('she gets out the scrapbook', u'/music/release/track', 1.610013880963754, u'/0p47m7')
+yes
+
+what is a recording off the release to the sea /music/recording/releases /0fmtzy0
+('to the sea', u'/music/recording/releases', 0.8169912341187758, u'/01psxhy')
+('to the sea', u'/freebase/valuenotation/is_reviewed', 0.7199982860521364, u'/0kpv6z')
+('to the sea', u'/film/film/genre', 0.6921418820321052, u'/02hmvc')
+('to the sea', u'/music/album/release_type', 0.6914973520100066, u'/02lx2r')
+('sea', u'/base/skosbase/vocabulary_equivalent_topic/broader_concept', 0.6607804450553391, u'/0bpl6ss')
+yes
+
+what is a building in maryland that features greek revival architecture /architecture/architectural_style/examples /04zwj1p
+('greek revival', u'/type/object/type', 1.1767674006749558, u'/0cgp9nm')
+('greek revival', u'/common/topic/notable_types', 1.0016853397191303, u'/025dgfy')
+('greek revival', u'/architecture/architectural_style/examples', 0.7119606915301163, u'/09gfd_g')
+('greek revival', u'/common/topic/image', 0.549822329871465, u'/02c2rpj')
+('architecture', u'/type/object/type', 0.5135866364086554, u'/04mny2g')
+nope5
+
+where was guy pnini born /people/person/place_of_birth /07qzv
+('guy pnini', u'/people/person/place_of_birth', 5.82236232920587, u'/07qzv')
+('guy', u'/fictional_universe/fictional_character/place_of_birth', 1.5524508079798303, u'/09c7w0')
+('born', u'/astronomy/extraterrestrial_location/on_celestial_object', 0.511410595989259, u'/04wv_')
+('guy pnini', u'/people/person/nationality', 0.4972104224673264, u'/03spz')
+('born', u'/music/release/region', 0.391559446335279, u'/07ssc')
+yes
+
+what type of album is  cherry 2000 /music/album/album_content_type /0l14gg
+('cherry 2000', u'/music/album/album_content_type', 4.124611735757484, u'/0l14gg')
+('cherry 2000', u'/film/film/genre', 3.1158094843133033, u'/03k9fj')
+('cherry 2000', u'/music/album/release_type', 2.630681541597169, u'/02lx2r')
+('cherry 2000', u'/film/film/subjects', 2.304804971460637, u'/01h88q')
+('cherry 2000', u'/film/film/language', 1.7193348844795817, u'/02h40lc')
+yes
+
+which city did linn phillips die /people/deceased_person/place_of_death /02cl1
+('linn phillips', u'/people/deceased_person/place_of_death', 2.169566888830076, u'/02cl1')
+('linn phillips', u'/people/deceased_person/cause_of_death', 1.4662577002276416, u'/0gk4g')
+('linn phillips', u'/people/person/nationality', 0.2607241037140042, u'/09c7w0')
+('linn', u'/location/location/containedby', 0.15170408179132475, u'/09c7w0')
+('phillips', u'/location/hud_county_place/county', 0.1498310766546607, u'/0my72')
+yes
+
+which country is archibald campbell from /people/person/nationality /07ssc
+('archibald campbell', u'/people/person/nationality', 2.181749553373365, u'/07ssc')
+('archibald campbell', u'/common/topic/notable_types', 1.209961106175138, u'/02xlh55')
+('archibald campbell', u'/people/person/gender', 1.2031882758853543, u'/05zppz')
+('archibald', u'/people/person/nationality', 0.9513404497532849, u'/09c7w0')
+('archibald campbell', u'/people/person/profession', 0.8636169710900866, u'/09j9h')
+yes
+
+who is a fictional character that is a gambler /fictional_universe/character_occupation/characters_with_this_occupation /0byv987
+('gambler', u'/fictional_universe/character_occupation/characters_with_this_occupation', 1.1068671992187806, u'/0byv987')
+('gambler', u'/fictional_universe/fictional_character/character_created_by', 0.922020379342728, u'/04zhrn')
+('gambler', u'/common/topic/notable_types', 0.5828095199691394, u'/02hqb47')
+('gambler', u'/fictional_universe/fictional_character/gender', 0.5656789781484128, u'/05zppz')
+('gambler', u'/fictional_universe/fictional_character/species', 0.5564141160885434, u'/0dgw9r')
+yes
+
+which writing system is of moldovan language /language/human_language/writing_system /068r73
+('moldovan language', u'/language/human_language/writing_system', 1.284607006233567, u'/04n0p')
+('moldovan language', u'/common/topic/notable_types', 1.0815086299609098, u'/0358')
+('moldovan language', u'/common/topic/image', 0.7051503961697078, u'/059fjvp')
+('moldovan language', u'/language/human_language/language_family', 0.624231194448229, u'/03v09')
+('moldovan language', u'/language/human_language/main_country', 0.6193763050881842, u'/04w4s')
+yes
+
+what kind of music is brutal juice /music/artist/genre /05r6t
+('brutal juice', u'/music/artist/genre', 2.182336643703503, u'/0dl5d')
+('brutal juice', u'/music/artist/label', 1.1574883634581998, u'/014j0w')
+('brutal juice', u'/music/artist/track', 1.0982359424411883, u'/0lb_lk')
+('brutal', u'/music/album/genre', 1.0035551789472987, u'/0xhtw')
+('brutal', u'/film/film/genre', 0.9599300475082866, u'/01585b')
+yes
+
+what is a book written about election /book/book_subject/works /04wc5lt
+('election', u'/type/object/type', 0.7339838421400733, u'/04mny2g')
+('book', u'/type/object/type', 0.6935183910472978, u'/04mny2g')
+('election', u'/book/book_subject/works', 0.6612109813019027, u'/04ypwss')
+('election', u'/media_common/quotation_subject/quotations_about_this_subject', 0.6532829903621846, u'/048jhwn')
+('election', u'/book/book/genre', 0.6274474697206893, u'/0vgkd')
+nope5
+
+what character is of the vampire species /fictional_universe/character_species/characters_of_this_species /0bpmj5
+('vampire', u'/amusement_parks/ride/ride_type', 1.6076821468371336, u'/010l12')
+('vampire', u'/fictional_universe/fictional_character/species', 1.1805618304452836, u'/07yjb')
+('the vampire', u'/film/film/genre', 1.110856378771043, u'/02hmvc')
+('vampire', u'/common/topic/notable_types', 0.8955431075675294, u'/02h7lhr')
+('vampire', u'/book/book/genre', 0.8644577995129086, u'/014dfn')
+nopeno
+
+what is the name of a game in the gambling industry /business/industry/companies /0hqzs51
+('gambling', u'/type/object/type', 0.8390266857381952, u'/04mny2g')
+('gambling', u'/cvg/cvg_genre/games', 0.7904371700006174, u'/0fx0t5')
+('gambling', u'/common/topic/subject_of', 0.7896257726397309, u'/0y6vk4m')
+('gambling', u'/business/industry/companies', 0.6838515304803764, u'/09hw4d')
+('gambling', u'/common/topic/subjects', 0.6745162597912276, u'/0y6vk4m')
+nope5
+
+name a rock music album /music/genre/albums /01kyss7
+('album', u'/music/album_content_type/albums', 0.43375028821766654, u'/06vw38')
+('album', u'/film/film_genre/films_in_this_genre', 0.3257097022255976, u'/07s9rl0')
+('name', u'/media_common/quotation_subject/quotations_about_this_subject', 0.2721509301390736, u'/048g69g')
+('album', u'/music/genre/albums', 0.25877796931029967, u'/01z7dr')
+('album', u'/music/album_release_type/albums', 0.18195779512409085, u'/03jfc09')
+?ent
+
+what cyclone affected hainan /meteorology/cyclone_affected_area/cyclones /0zbwrpx
+('hainan', u'/meteorology/cyclone_affected_area/cyclones', 1.2894428168060175, u'/0zbwrpx')
+('hainan', u'/common/topic/notable_types', 0.9875951678821575, u'/02yxk5c')
+('hainan', u'/base/aareas/schema/administrative_area/administrative_area_type', 0.6731177014608547, u'/0hzcdzg')
+('hainan', u'/base/aareas/schema/administrative_area/capital', 0.6736680838823272, u'/02fwq0')
+('cyclone', u'/amusement_parks/ride/park', 0.6706587658213444, u'/05h9v3')
+yes
+
+what genre is the movie half empty /film/film/genre /0lsxr
+('half empty', u'/film/film/genre', 1.7473984163638256, u'/07s9rl0')
+('half empty', u'/media_common/netflix_title/netflix_genres', 1.5647284589219874, u'/04t36')
+('half empty', u'/film/film/language', 1.2203412242278464, u'/02h40lc')
+('half empty', u'/film/film/country', 0.8369272361265685, u'/09c7w0')
+('empty', u'/film/film/genre', 0.8149659128085752, u'/02hmvc')
+yes
+
+who recorded the song baby /music/recording/artist /01qsv9r
+('song', u'/base/skosbase/vocabulary_equivalent_topic/equivalent_concept', 0.2778152796552294, u'/0bp0xgq')
+('song', u'/common/topic/image', 0.16045747167054542, u'/03sr5gc')
+('song', u'/music/recording/song', 0.1401429744854642, u'/014ckw9')
+('song', u'/aviation/airline/hubs', 0.09880197539618304, u'/0p1l2')
+('song', u'/aviation/airline/focus_cities', 0.09380775676670082, u'/0p1l2')
+?ent
+
+what 's the name of a popular japanese to portuguese dictionary /media_common/literary_genre/books_in_this_genre /05_kl1
+('dictionary', u'/media_common/media_genre/child_genres', 0.44586294091766876, u'/0gg5fz')
+('dictionary', u'/internet/website_category/sites', 0.3844105486964362, u'/02rl25k')
+('dictionary', u'/media_common/quotation_subject/quotations_about_this_subject', 0.36851936953399156, u'/048hsr0')
+('dictionary', u'/media_common/literary_genre/books_in_this_genre', 0.3635970003245295, u'/03sg81')
+('portuguese', u'/book/book/editions', 0.35306445542786136, u'/08jppbq')
+?ent
+
+what kind of album is casiopea perfect live ii /music/album/album_content_type /0l14g2
+('casiopea perfect live ii', u'/music/album/album_content_type', 5.041310458402346, u'/0l14g2')
+('casiopea perfect live ii', u'/music/album/genre', 3.8904131149041836, u'/01fh36')
+('casiopea perfect live ii', u'/music/album/release_type', 2.9289924562004916, u'/02lx2r')
+('live ii', u'/music/album/album_content_type', 1.3031396399609174, u'/0l14g2')
+('perfect live ii', u'/music/release/format', 1.0267099436385454, u'/01lxst')
+yes
+
+what is an album recorded by scott grimes /music/artist/album /01sh7m3
+('scott grimes', u'/music/artist/album', 1.842058588270662, u'/01sh7n9')
+('scott grimes', u'/common/topic/notable_types', 1.609960703150047, u'/01xrzlq')
+('scott grimes', u'/people/person/gender', 1.3438249554294228, u'/05zppz')
+('scott grimes', u'/people/person/profession', 1.2564666446624517, u'/016z4k')
+('scott grimes', u'/music/artist/track', 1.1995557822486391, u'/017qlw4')
+yes

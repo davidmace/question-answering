@@ -1,0 +1,11 @@
+rules
+entid2name
+entid2name-important
+present-entids
+rules
+.ipynb_checkpoints
+test.txt
+train.txt
+validation.txt
+freebase-ents.txt
+freebase-rules.txt
